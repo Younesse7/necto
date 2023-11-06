@@ -3,7 +3,7 @@ tool for connection
 
 usage :
 
-python your_tool.py [options]
+python necto.py [options]
 
 
 
