@@ -3,6 +3,11 @@ tool for connection
 
 usage :
 
+python your_tool.py [options]
+
+
+
+
 
 -h, --help: Display a help message.
 
